@@ -1,0 +1,12 @@
+[submodule "dedup-clean"]
+	path = dedup-clean
+	url = https://github.com/Vikyek/dedup-clean
+[submodule "Placeholder-Rsync-Resolver"]
+	path = Placeholder-Rsync-Resolver
+	url = https://github.com/Vikyek/Placeholder-Rsync-Resolver
+[submodule "Windows-Segregation"]
+	path = Windows-Segregation
+	url = https://github.com/Vikyek/Windows-Segregation
+[submodule "btrfs-recovery-tool"]
+	path = btrfs-recovery-tool
+	url = https://github.com/Vikyek/btrfs-recovery-tool
